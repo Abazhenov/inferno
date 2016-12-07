@@ -1,5 +1,4 @@
 import Component from 'inferno-component';
-
 import { IRouterProps } from './Router';
 import match from './match';
 
